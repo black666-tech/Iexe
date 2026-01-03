@@ -1,0 +1,5 @@
+{
+  "name": "ExeForge Architect",
+  "description": "Ein professioneller, browserbasierter Compiler-Builder. Erstellt echte Windows-Executable-Artefakte durch intelligente C#-Transpilation und lokalen Build-Wrapper. Keine Simulation.",
+  "requestFramePermissions": []
+}
